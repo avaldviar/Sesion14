@@ -1,0 +1,7 @@
+C:\Users\gemel\Documents\Sesion14\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\gemel\Documents\Sesion14\Archivos\Archivos\bin\Debug\Archivos.exe
+C:\Users\gemel\Documents\Sesion14\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\gemel\Documents\Sesion14\Archivos\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+C:\Users\gemel\Documents\Sesion14\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\gemel\Documents\Sesion14\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\gemel\Documents\Sesion14\Archivos\Archivos\obj\Debug\Archivos.pdb

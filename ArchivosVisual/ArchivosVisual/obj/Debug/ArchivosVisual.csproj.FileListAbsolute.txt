@@ -1,0 +1,10 @@
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\bin\Debug\ArchivosVisual.exe.config
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\bin\Debug\ArchivosVisual.exe
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\bin\Debug\ArchivosVisual.pdb
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.csproj.AssemblyReference.cache
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.Form1.resources
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.Properties.Resources.resources
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.csproj.GenerateResource.cache
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.csproj.CoreCompileInputs.cache
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.exe
+C:\Users\gemel\Documents\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.pdb
